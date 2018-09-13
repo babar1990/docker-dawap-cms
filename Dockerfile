@@ -36,7 +36,6 @@ RUN docker-php-ext-install \
             intl \
             opcache \
             mbstring \
-            mcrypt \
             pdo_mysql \
             sockets \
             zip \

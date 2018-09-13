@@ -18,7 +18,7 @@ RUN apt-get update && apt-get install -y \
     g++ \
     wget \
     sudo \
-    locales
+    locales \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Composer

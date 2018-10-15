@@ -15,6 +15,7 @@ RUN apt-get update && apt-get install -y \
     libicu-dev \
     libxrender1 \
     libfontconfig1 \
+    libssl1.0-dev \
     g++ \
     wget \
     sudo \
